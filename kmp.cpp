@@ -1,4 +1,4 @@
-//hgfjhfgjk
+//h
 #include "Algorithms.h"
 
 //called by the kmp function
